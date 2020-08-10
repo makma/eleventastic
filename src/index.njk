@@ -1,9 +1,11 @@
 ---
 layout: base
+data: home
 eleventyNavigation:
   key: Home
 ---
 
 <div class="container">
-    <h1>A blank 11ty project.</h1>
+    <h1>{{ home.title }}</h1>
+    {{ home.content | safe }}
 </div>
