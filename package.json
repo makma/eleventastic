@@ -1,7 +1,7 @@
 {
   "name": "eleventastic",
   "version": "1.0.0",
-  "description": "A boilerplate for eleventy websites",
+  "description": "A boilerplate for eleventy websites and Kontent CMS",
   "scripts": {
     "start": "npm run dev",
     "dev": "run-s clean eleventy:dev --print-label",
@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/maxboeck/eleventastic"
+    "url": "https://github.com/makma/eleventastic-kontent"
   },
-  "author": "Max Böck",
+  "author": "Martin Makarsky",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
