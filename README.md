@@ -3,7 +3,7 @@
 A simple Eleventy Starter Kit, base for new 11ty projects. ([Demo Site](https://eleventastic.netlify.com))
 This project showcases getting content from headless CMS [Kontent](https://bit.ly/2PHCdVX), based on the original [project](https://github.com/maxboeck/eleventastic) by [maxboeck](https://github.com/maxboeck).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f78ec52d-8328-4e40-b6da-a0f9164e80d1/deploy-status)](https://app.netlify.com/sites/eleventastic/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f78ec52d-8328-4e40-b6da-a0f9164e80d1/deploy-status)](https://app.netlify.com/sites/eleventastic-kontent/deploys)
 
 ## Features
 
