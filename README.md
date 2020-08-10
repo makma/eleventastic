@@ -1,4 +1,4 @@
-# Eleventastic
+# Eleventastic Kontent
 
 A simple Eleventy Starter Kit, base for new 11ty projects. ([Demo Site](https://eleventastic.netlify.com))
 This project showcases getting content from headless CMS [Kontent](https://bit.ly/2PHCdVX), based on the original [project](https://github.com/maxboeck/eleventastic) by [maxboeck](https://github.com/maxboeck).
